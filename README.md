@@ -11,6 +11,7 @@ In this assay i made both Table Schema and ERD Diargram for a real estate compan
  <img src="Table-Scheme.jpg" max-width=900>
  </div>
 
+## SQL Script
 ### Prerequisites for the script
 
 in order to run the script u need to make sure you dont have DB named `[Sale My House DB]`
