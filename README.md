@@ -14,7 +14,7 @@ In this assay i made both Table Schema and ERD Diargram for a real estate compan
 ## SQL Script
 ### Prerequisites for the script
 
-in order to run the script u need to make sure you dont have DB named `[Sale My House DB]`
+in order to run the script you need to make sure you dont have DB named `[Sale My House DB]`
 if so choose diffrent name  and run
 https://github.com/itayG98/Sale-My-House/blob/a4beabf97051b155d9e6f5df4899bf24fe319773/FinalyAssay.sql#L1-L5
 
